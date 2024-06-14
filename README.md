@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![sweating-nervous](https://github.com/arthur-panops/arthur-panops/assets/131906685/2987b190-50dc-4036-9323-4d1f6d4de4f6)
 
 <!--
 <img src="https://giphy.com/embed/QMHoU66sBXqqLqYvGO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
