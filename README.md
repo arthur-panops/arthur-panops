@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![image](https://github.com/arthur-panops/arthur-panops/assets/131906685/b313e285-5e44-4177-b46e-6f74f583747a)
+
 <!--
 <img src="https://giphy.com/embed/QMHoU66sBXqqLqYvGO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 **arthur-panops/arthur-panops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
