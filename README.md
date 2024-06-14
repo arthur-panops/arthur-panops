@@ -1,7 +1,6 @@
 ### Hi there 👋
-<div style="dislay: flex;">
+
 ![sweating-nervous](https://github.com/arthur-panops/arthur-panops/assets/131906685/2987b190-50dc-4036-9323-4d1f6d4de4f6)
-</div>
   
 ![this-is-fine-dog](https://github.com/arthur-panops/arthur-panops/assets/131906685/77bceda7-c1b5-4fd0-b915-3725f65239f4)
 
